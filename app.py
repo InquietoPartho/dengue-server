@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import streamlit.components.v1 as components
 
 # ----------------- Load Model & Scaler -----------------
-model = joblib.load('F:\dd-stream\stacking_classifier.pkl')
-scaler = joblib.load('F:\dd-stream\scaler.pkl')
+model = joblib.load('stacking_classifier.pkl')
+scaler = joblib.load('scaler.pkl')
 
 # ----------------- Page Setup -----------------
 st.set_page_config(
