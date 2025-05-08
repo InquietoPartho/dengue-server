@@ -7,6 +7,16 @@
 
 ---
 
+---
+
+## 🌐 Live Web App Preview
+
+Below is a preview of the deployed Dengue Diagnosis Predictor web application:
+
+![Dengue Predictor App Screenshot](![Alt text](app_preview.png))
+
+You can try it yourself here: [https://dengue-prediction-hstu.streamlit.app/](https://dengue-prediction-hstu.streamlit.app/)
+
 ## 🧠 Project Overview
 
 The **Dengue Diagnosis Predictor** is an intelligent web-based application built with **Streamlit** that leverages a **Stacking Classifier** ensemble machine learning model to estimate the likelihood of dengue infection using hematological and demographic parameters.
@@ -47,7 +57,7 @@ This tool empowers medical practitioners and health professionals with a decisio
    ```bash
    pip install -r requirements.txt
    ```
-3. **\*Run the app**
+3. **Run the app**
 
    ```bash
    streamlit run app.py
