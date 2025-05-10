@@ -134,9 +134,10 @@ if st.button("🔮 Predict Dengue Status"):
 st.markdown("""
 ---
 <div style='text-align: center; font-size: 15px;'>
-# 🧠 Developed by <b>Pijush Kanti Roy Partho</b><br>
-# Student, Electronics and Communication Engineering<br>
 Hajee Mohammad Danesh Science and Technology University<br>
 © 2025 All Rights Reserved.
 </div>
 """, unsafe_allow_html=True)
+
+# 🧠 Developed by <b>Pijush Kanti Roy Partho</b><br>
+# Student, Electronics and Communication Engineering<br>
